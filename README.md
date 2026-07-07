@@ -43,14 +43,6 @@ I'm passionate about building modern web applications, solving problems through 
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhav-1921&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-1921&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/anubhav-1921
